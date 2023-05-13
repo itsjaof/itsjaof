@@ -27,4 +27,4 @@
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imtwoz&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/imtwoz"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjaof&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/imtwoz"/>
