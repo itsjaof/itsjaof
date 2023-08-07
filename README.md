@@ -27,4 +27,6 @@
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjaof&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/imtwoz"/>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjaof&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/imtwoz"/> -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsjaof&theme=discord_old_blurple)
+![](https://streak-stats.demolab.com/?user=itsjaof&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark&date_format=j/n/Y)
